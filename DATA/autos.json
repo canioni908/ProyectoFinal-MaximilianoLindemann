@@ -5,7 +5,7 @@
     "modelo": "Gol",
     "precio": 8500000,
     "stock": 5,
-    "imagen": "/ASSETS/img/vw-gol-2019-1-1.jpg"
+    "imagen": "/assets/img/vw-gol-2019-1-1.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "modelo": "Corolla",
     "precio": 14500000,
     "stock": 3,
-    "imagen": "/ASSETS/img/589588.webp"
+    "imagen": "/assets/img/589588.webp"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "modelo": "Ranger",
     "precio": 18500000,
     "stock": 2,
-    "imagen": "ASSETS/img/small.avif"
+    "imagen": "assets/img/small.avif"
   },
   {
     "id": 4,
@@ -29,6 +29,6 @@
     "modelo": "Onix",
     "precio": 9200000,
     "stock": 6,
-    "imagen": "ASSETS/img/LTZ-Rojo-Jinx.avif"
+    "imagen": "assets/img/LTZ-Rojo-Jinx.avif"
   }
 ]
