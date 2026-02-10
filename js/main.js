@@ -25,7 +25,7 @@ if (carritoGuardado) {
 }
 
 // FETCH AUTOS
-fetch('./data/autos.json')
+fetch('data/autos.json')
     .then(response => response.json())
     .then(data => {
         autos = data;
