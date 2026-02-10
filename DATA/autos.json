@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "marca": "Volkswagen",
+    "modelo": "Gol",
+    "precio": 8500000,
+    "stock": 5,
+    "imagen": "/ASSETS/img/vw-gol-2019-1-1.jpg"
+  },
+  {
+    "id": 2,
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "precio": 14500000,
+    "stock": 3,
+    "imagen": "/ASSETS/img/589588.webp"
+  },
+  {
+    "id": 3,
+    "marca": "Ford",
+    "modelo": "Ranger",
+    "precio": 18500000,
+    "stock": 2,
+    "imagen": "ASSETS/img/small.avif"
+  },
+  {
+    "id": 4,
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "precio": 9200000,
+    "stock": 6,
+    "imagen": "ASSETS/img/LTZ-Rojo-Jinx.avif"
+  }
+]
